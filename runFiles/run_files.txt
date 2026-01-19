@@ -1,0 +1,4 @@
+g++ main.cpp EventManager.cpp BookingManager.cpp -o EventBookingSystem
+
+
+EventBookingSystem
